@@ -1,0 +1,2 @@
+rootProject.name='BTRL_BroadcastReceiver_LangNgheSMSToi'
+include ':app'
